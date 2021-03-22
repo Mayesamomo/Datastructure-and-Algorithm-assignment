@@ -1,0 +1,9 @@
+Fluorescent Adolesent | Artist : Arctic Monkeys| Genre : Country | Album : Lorem Ipsum | TrackNumber : 20 | PlayCount : 200 | Rating : 3.66
+The Stone | Artist : Ashes Divide | Genre : Metal | Album : Lorem IpMusic | TrackNumber : 13 | PlayCount : 120 | Rating : 4.2
+My Boo | Artist : Usher | Genre : HipHop | Album : Confession | TrackNumber : 1 | PlayCount : 5000 | Rating : 5.0
+Let me Love You | Artist : Mario | Genre : RnB | Album : Let Me Love You | TrackNumber : 10 | PlayCount : 1000 | Rating : 4.8
+Run It | Artist : Chris Brown | Genre : HipHop | Album : Air| TrackNumber : 5 | PlayCount : 5000 | Rating : 5.0
+Under My Umbrella | Artist : Rihana| Genre : HipHop | Album : Umbrella | TrackNumber : 2 | PlayCount : 200 | Rating : 4.0
+Switch Lanes | Artist : Tyga| Genre : Rap | Album : Umbrella | TrackNumber : 4 | PlayCount : 2000 | Rating : 4.7
+
+

@@ -1,0 +1,32 @@
+Title : Sisi Maria
+Artist : Maleek Berry 
+Genre : Afro beat 
+Album : Maria 
+TrackNumber : 2 
+PlayCount : 20 
+Rating : 4.6 
+
+Title : Far Away
+Artist : Maleek Berry
+Genre : Afro beat 
+Album : Maria
+TrackNumber : 13
+PlayCount : 50 
+Rating : 5.0 
+
+Title : 23
+Artist : Burnaboy 
+Genre : HipHop 
+Album : Too big
+TrackNumber : 5000 
+PlayCount : 1 
+Rating : 4.9 
+
+Title : Mighty Wine 
+Artist : WizKid
+Genre : Afropop
+Album : Made In Lagos
+TrackNum : 5 
+PlayCount : 100000 
+Rating : 5.0 
+
